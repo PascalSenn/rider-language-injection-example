@@ -1,0 +1,4 @@
+{
+  "name": "example-project",
+  "schemaPath": "./__snapshots__/schema.graphql"
+}
